@@ -1,3 +1,4 @@
+<фрагмент_вставки_значка>
 bari@ubuntu24:~$ export GITHUB_USERNAME=YaQQrQ
 bari@ubuntu24:~$ cd ${GITHUB_USERNAME}/workspace
 bari@ubuntu24:~/YaQQrQ/workspace$ pushd .
